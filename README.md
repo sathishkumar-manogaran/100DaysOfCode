@@ -1,2 +1,3 @@
-# 100DaysOfCode
-#100DaysOfCode in Go, #100DaysOfGo
+# 100DaysOfCode 100DaysOfGo
+
+LeetCode Problems - My Version and Best Version
