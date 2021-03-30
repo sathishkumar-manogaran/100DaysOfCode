@@ -1,3 +1,3 @@
 # 100DaysOfCode 100DaysOfGo
 
-LeetCode Problems - My Version and Best Version
+LeetCode Problems of My Version and Best Version
